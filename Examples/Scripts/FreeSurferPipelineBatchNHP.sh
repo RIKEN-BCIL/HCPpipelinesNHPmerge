@@ -75,7 +75,7 @@ for Subject in `echo $Subjlist | sed -e 's/@/ /g'` ; do
   fi
   
      ${HCPPIPEDIR}/FreeSurfer/FreeSurferPipelineNHP.sh \
-      --subject="$Subject" \
+      --subject="$SubjectID" \
       --subject-dir="$SubjectDIR" \
       --t1w-image="$T1wImage" \
       --t1w-brain="$T1wImageBrain" \
