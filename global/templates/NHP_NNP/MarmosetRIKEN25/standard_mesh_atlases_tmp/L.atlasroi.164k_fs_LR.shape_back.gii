@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ParentProvenance]]></Name>
+         <Value><![CDATA[average.L.midthickness.164k_fs_LR.surf.gii:
+/usr/local/workbench/bin_rh_linux64/../exe_rh_linux64/wb_command -surface-average /data/riken-wustl/Marmoset/HCP-RIKEN/average/MNINonLinear/average.L.midthickness.164k_fs_LR.surf.gii -uncertainty /data/riken-wustl/Marmoset/HCP-RIKEN/average/MNINonLinear/average.L.midthickness_uncertainty.164k_fs_LR.shape.gii -stddev /data/riken-wustl/Marmoset/HCP-RIKEN/average/MNINonLinear/average.L.midthickness_std.164k_fs_LR.shape.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17021601/MNINonLinear/A17021601.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17022302/MNINonLinear/A17022302.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17031002/MNINonLinear/A17031002.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17032302/MNINonLinear/A17032302.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17032402/MNINonLinear/A17032402.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17032902/MNINonLinear/A17032902.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17033102/MNINonLinear/A17033102.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17040702/MNINonLinear/A17040702.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17041201/MNINonLinear/A17041201.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17041402/MNINonLinear/A17041402.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17042002/MNINonLinear/A17042002.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17042102/MNINonLinear/A17042102.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17042602/MNINonLinear/A17042602.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17042802/MNINonLinear/A17042802.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17051101/MNINonLinear/A17051101.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17051201/MNINonLinear/A17051201.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17051801/MNINonLinear/A17051801.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17051901/MNINonLinear/A17051901.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17081701/MNINonLinear/A17081701.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17082502/MNINonLinear/A17082502.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17083102/MNINonLinear/A17083102.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17090102/MNINonLinear/A17090102.L.midthickness.164k_fs_LR.surf.gii -surf /data/riken-wustl/Marmoset/HCP-RIKEN/A17090702/MNINonLinear/A17090702.L.midthickness.164k_fs_LR.surf.gii
+
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.2.3
+Qt Compiled Version: 4.8.4
+Qt Runtime Version: 4.8.4
+Commit: c170db0277de04cb8a5c04fdf96e45adcda47d6d
+Commit Date: 2016-08-23 19:08:10 -0500
+Compiled with OpenMP: YES
+Compiler: g++44 (/usr/bin)
+Compiler Version: 4.4.7
+Compiled Debug: NO
+Operating System: Linux
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/usr/local/workbench/bin_rh_linux64/../exe_rh_linux64/wb_command -border-to-rois average.L.midthickness.164k_fs_LR.surf.gii roi_L.164k_fs_LR.border roi_L.164k_fs_LR.shape.gii -inverse]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/data/riken-wustl/Marmoset/HCP-RIKEN/average/MNINonLinear]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_NORMAL"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="163842"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[ROI]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>
