@@ -2,7 +2,7 @@
 
 ## Creators
  - Takuya Hayashi (RIKEN BDR Brain Connectomics Imaging Lab)
- - AKiko Uematsu (RIKEN BDR Brain Connectomics Imaging Lab)
+ - Akiko Uematsu (RIKEN BDR Brain Connectomics Imaging Lab)
  - Tomoko Ishibuchi (RIKEN BDR Brain Connectomics Imaging Lab)
  - Takuro Ikeda (RIKEN BDR Brain Connectomics Imaging Lab)
  - Tim Coalson (Washington University in St. Louis)
