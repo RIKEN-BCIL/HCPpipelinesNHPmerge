@@ -28,7 +28,7 @@
   Van Essen, D. C. The nonhuman primate neuroimaging and neuroanatomy project. 
   *NeuroImage* 229, 117726 (2021).
   
-## Acknowledgment of Funding
+## Please acknowledge the Funding Source
 - Papers, book chapters, books, posters, oral presentations, and all other 
   printed and digital presentations of results derived from NHP_NNP data 
   should contain the following wording in the acknowledgments section: 
@@ -42,3 +42,9 @@
 >  (to H.K.), ANR-15-CE32-0016, CORNET (to H.K.), CAS No. 2018VBA0011 (to H.K.),
 >  AMED JP18dm0307006, JP23wm0625001 (to T.H.) and JSPS KAKENHI JP22H04926 
 >  (to T.H.).
+
+## Please cite publication
+> Hayashi, T., Hou, Y., Glasser, M. F., Autio, J. A., Knoblauch, K., 
+>  Inoue-Murayama, M., Coalson, T., Yacoub, E., Smith, S., Kennedy, H. & 
+>  Van Essen, D. C. The nonhuman primate neuroimaging and neuroanatomy project. 
+>  *NeuroImage* 229, 117726 (2021).
