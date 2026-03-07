@@ -32,11 +32,12 @@
 - Papers, book chapters, books, posters, oral presentations, and all other 
   printed and digital presentations of results derived from NHP_NNP data 
   should contain the following wording in the acknowledgments section: 
-  "Data were provided [in part] by the Non-Human Primate Neuroimage and 
-  Neuroanatomy Project, WU-SBRI/LU-RIKEN/KU Consortium (Principal Investigators: 
-  David Van Essen, Matthew Glasser, Henry Kennedy, Takuya Hayashi) funded by
-  Grants NIH R01 MH-060974 (to D.C.V.E. and M.F.G), ANR LABEX CORTEX 
-  (ANR-11-LABX-0042) of Université de Lyon (ANR-11-IDEX-0007) (to H.K.), 
-  ANR-11-BSV4-501, CORE-NETS (to H.K.), ANR-14-CE13-0033, ARCHI-CORE 
-  (to H.K.), ANR-15-CE32-0016, CORNET (to H.K.), CAS No. 2018VBA0011 (to H.K.),
-  and AMED JP18dm0207001, JP19dm0307006, JP23wm0625001 (to T.H.).
+
+> Data were provided [in part] by the Non-Human Primate Neuroimage and 
+>  Neuroanatomy Project, WU-SBRI/LU-RIKEN/KU Consortium (Principal Investigators: 
+>  David Van Essen, Matthew Glasser, Henry Kennedy, Takuya Hayashi) funded by
+>  Grants NIH R01 MH-060974 (to D.C.V.E. and M.F.G), ANR LABEX CORTEX 
+>  (ANR-11-LABX-0042) of Université de Lyon (ANR-11-IDEX-0007) (to H.K.), 
+>  ANR-11-BSV4-501, CORE-NETS (to H.K.), ANR-14-CE13-0033, ARCHI-CORE 
+>  (to H.K.), ANR-15-CE32-0016, CORNET (to H.K.), CAS No. 2018VBA0011 (to H.K.),
+>  and AMED JP18dm0207001, JP19dm0307006, JP23wm0625001 (to T.H.).
