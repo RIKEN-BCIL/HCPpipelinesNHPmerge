@@ -4,8 +4,10 @@
 - This folder collects all the templates and atlases that are useful for 
   resolving cortical folding, parcellation, and connectivity in various 
   mammalian species.
-- All data were preprocessed with the HCP pipeline and dedrifted 
-  (unbiased population-level nonlinear registration) for template construction.
+- All data were preprocessed with the HCP pipeline. For rhesus macaque, 
+  cynomolgus macaque, and marmoset, templates were additionally dedrifted 
+  (unbiased population-level nonlinear registration) and symmetrized to 
+  reduce left-right hemispheric bias.
 - Macaque data were collected from the RIKEN Center for Biosystems Dynamics 
   Research (BDR) in Kobe, Japan, and the Stem Cell and Brain Research Institute 
   (SBRI) in Lyon, France, while marmoset data were collected from RIKEN BDR, 
@@ -14,7 +16,7 @@
   each species.
 - Currently available species are chimpanzee, rhesus macaque, cynomolgus 
   macaque, and marmoset. Snow monkey and night monkey are also planned. 
-  Rodents are also under consideration.
+  Rodents are also under construction.
 
 ## References
 - Van Essen, D. C., Donahue, C. J., Coalson, T. S., Kennedy, H., Hayashi, T. 
