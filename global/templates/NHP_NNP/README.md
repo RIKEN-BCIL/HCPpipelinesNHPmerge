@@ -28,7 +28,7 @@
   Van Essen, D. C. The nonhuman primate neuroimaging and neuroanatomy project. 
   *NeuroImage* 229, 117726 (2021).
   
-## Please acknowledge the Funding Source
+## Please acknowledge the funding source
 - Papers, book chapters, books, posters, oral presentations, and all other 
   printed and digital presentations of results derived from NHP_NNP data 
   should contain the following wording in the acknowledgments section: 
