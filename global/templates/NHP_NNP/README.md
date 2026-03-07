@@ -9,7 +9,11 @@
 - All data were preprocessed with the HCP pipeline. For rhesus macaque, 
   cynomolgus macaque, and marmoset, templates were additionally dedrifted 
   (unbiased population-level nonlinear registration) and symmetrized to 
-  reduce left-right hemispheric bias.
+  reduce left-right bias. Symmetrization was done via non-linear 
+  registration betwween non-flipped and flipped data (surface or volume),
+  and mid-point warping was applied to the non-flipped data. Templates 
+  (sulci in surface and T1w and T2w images in volume) were not averaged
+  across left-right.
 - Macaque data were collected from the RIKEN Center for Biosystems Dynamics 
   Research (BDR) in Kobe, Japan, and the Stem Cell and Brain Research Institute 
   (SBRI) in Lyon, France, while marmoset data were collected from RIKEN BDR, 
