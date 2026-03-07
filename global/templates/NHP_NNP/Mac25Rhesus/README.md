@@ -11,9 +11,10 @@
   Siemens 3T Prisma scanner using a Takashima Primate 24-channel multi-array 
   head coil.
 - Data were collected, then preprocessed with the HCP pipeline, supported by 
-  AMED grant JP23wm0625001 (T.H.), JSPS KAKENHI JP22H04926 (T.H.), and NIH R01 
+  AMED grant JP18dm0307006 (T.H.), JSPS KAKENHI JP22H04926 (T.H.), and NIH R01 
   MH60974 (D.V.E., M.F.G.).
-- Data were publicly released as part of NIH grant 1UM1MH130981-01 (E.L.).
+- Data were publicly released as part of AMED grant JP23wm0625001 (T.H.) and
+  NIH grant 1UM1MH130981-01 (E.L.).
 
 ## Creators
 - Takuya Hayashi (RIKEN BDR Brain Connectomics Imaging Lab)
