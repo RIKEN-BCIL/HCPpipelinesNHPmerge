@@ -14,7 +14,7 @@
   head coil.
 - Data were collected, then preprocessed with the HCP pipeline, supported by 
   AMED grant JP18dm0307006 (T.H.), JSPS KAKENHI JP22H04926 (T.H.), and NIH R01 
-  MH60974 (D.V.E., M.F.G.), Welcome Trust (S.M.S.), LABEX CORTEX 
+  MH60974 (D.V.E., M.F.G.), Wellcome Trust (S.S.), LABEX CORTEX 
   ANR‐11‐LABX‐0042 (H.K.), Université de Lyon ANR‐11‐IDEX‐0007 (H.K.), 
   A2P2MC ANR‐17‐NEUC‐0004 (H.K.), CORTICITY ANR‐17‐HBPR‐0003 (H.K.), Région 
   Auvergne‐Rhône‐Alpes SCUSI 1700933701 (H.K.). and DUAL_STREAMS 
