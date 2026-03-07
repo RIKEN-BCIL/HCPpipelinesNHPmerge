@@ -9,6 +9,8 @@
 ## Creators
  - Matthew F Glasser (Washington University in St. Louis)
  - Chad Donahue (Washington University in St. Louis)
+ - Todd M Preuss (Emory University School of Medicine)
+ - James K Rilling (Emory University School of Medicine)
  - David C Van Essen (Washington University in St. Louis)
 
 ## References
