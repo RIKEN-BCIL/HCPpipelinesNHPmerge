@@ -1,7 +1,7 @@
 # Chimpanzee brain templates - ChimpYerkes29
 
 ## Data
- - Chimpanzee (+Pan troglodytes*; n = 29; age = 28+-17y; all female) MRI scans were obtained from a data archive of scans acquired prior to the 2015 implementation of United States Fish and Wildlife Service and National Institutes of Health regulations governing research with chimpanzees. 
+ - Chimpanzee (*Pan troglodytes*; n = 29; age = 28+-17y; all female) MRI scans were obtained from a data archive of scans acquired prior to the 2015 implementation of United States Fish and Wildlife Service and National Institutes of Health regulations governing research with chimpanzees. 
  - All chimpanzees were housed at the Yerkes National Primate Research Center (YNPRC) in Atlanta, Georgia, USA. All procedures were carried out in accordance with protocols approved by the YNPRC and the Emory University Institutional Animal Care and Use Committee (IACUC approval #YER-2001206).
  - All the scans were collected as part of a grant to study aging in female primates; all scans were completed by the end of 2012.
  - T1w and T2w structural MRI was obtained with 0.8mm resolution on Siemens 3T Trio scanner.
