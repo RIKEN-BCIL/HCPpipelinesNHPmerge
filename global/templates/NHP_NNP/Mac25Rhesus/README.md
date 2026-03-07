@@ -7,14 +7,12 @@
 - All rhesus macaques were housed at the RIKEN Center for Biosystems Dynamics 
   Research (BDR) in Kobe, Japan. All procedures were carried out in accordance 
   with protocols approved by the RIKEN Kobe Animal Care and Use Committee.
-- All scans were collected as part of a grant to T.H. from the Japan Agency for 
-  Medical Research and Development (AMED) (JP18dm0307006).
 - T1w and T2w structural MRI were acquired at 0.5 mm isotropic resolution on a 
   Siemens 3T Prisma scanner using a Takashima Primate 24-channel multi-array 
   head coil.
-- Data were preprocessed with the HCP pipeline, supported by AMED grant
-  JP23wm0625001 (T.H.), JSPS KAKENHI JP22H04926 (T.H.), and NIH R01 MH60974
-  (D.V.E., M.F.G.).
+- Data were collected, then preprocessed with the HCP pipeline, supported by 
+  AMED grant JP23wm0625001 (T.H.), JSPS KAKENHI JP22H04926 (T.H.), and NIH R01 
+  MH60974 (D.V.E., M.F.G.).
 - Data were publicly released as part of NIH grant 1UM1MH130981-01 (E.L.).
 
 ## Creators
