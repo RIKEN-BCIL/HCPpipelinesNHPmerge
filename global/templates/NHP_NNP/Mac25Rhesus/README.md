@@ -1,6 +1,10 @@
 # Rhesus macaque brain templates - Mac25Rhesus
 
 ## Data
+ - Rhesus macaque (*Macaca mulatta*; n = 25; age = 10.1+-5.8y; female:male=6:18) MRI scans were obtained from implementation of international intiatives of Non-Human Primate Neuroiamging & Neuroanatomy Project (NHP_NNP). 
+ - All the rhesus macaque were housed at the RIKEN Center for Biosystems Dynamics Research (BDR) in Kobe, Japan. All procedures were carried out in accordance with protocols approved by the RIKEN Kobe Animal Care and Use Committee.
+ - All the scans were collected as part of a grant to RIKEN BDR Laboratory of Brain Connectomics Imaging (BCIL) from Japan Agency for Medical Research and Development (AMED) Brain/MINDS-beyond project.
+ - T1w and T2w structural MRI was obtained with 0.5mm resolution on Siemens 3T Prisma scanner and Takashima Primate head 24ch multi-array coil.
 
 ## Creators
  - Takuya Hayashi (RIKEN BDR Brain Connectomics Imaging Lab)
