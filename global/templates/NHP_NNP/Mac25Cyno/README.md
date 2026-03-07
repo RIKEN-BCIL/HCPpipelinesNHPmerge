@@ -17,7 +17,7 @@
   MH60974 (D.V.E., M.F.G.), Wellcome Trust (S.S.), LABEX CORTEX 
   ANR‐11‐LABX‐0042 (H.K.), Université de Lyon ANR‐11‐IDEX‐0007 (H.K.), 
   A2P2MC ANR‐17‐NEUC‐0004 (H.K.), CORTICITY ANR‐17‐HBPR‐0003 (H.K.), Région 
-  Auvergne‐Rhône‐Alpes SCUSI 1700933701 (H.K.). CAS No. 2018VBA0011, and 
+  Auvergne‐Rhône‐Alpes SCUSI 1700933701 (H.K.), CAS No. 2018VBA0011, and 
   DUAL_STREAMS ANR‐19‐CE37‐0025 (H.K.)
 - Data were publicly released as part of AMED grant JP23wm0625001 (T.H.).
   
