@@ -10,10 +10,10 @@
   cynomolgus macaque, and marmoset, templates were additionally dedrifted 
   (unbiased population-level nonlinear registration) and symmetrized to 
   reduce left-right bias. Symmetrization was done via non-linear registration 
-  between non-flipped and flipped data (surface or volume), and mid-point 
-  warping was applied to the non-flipped data. Metrics of templates (sulci 
-  in surface and T1w and T2w signals in volume) were not averaged across 
-  hemispheres to preserve sensitivity for asymmetry analysis.
+  between non-flipped and flipped data (sulci in surface or T1w signal in 
+  volume), and mid-point warping was applied to the non-flipped data. Metrics
+  of templates (sulci in surface and T1w and T2w signals in volume) were not
+  averaged across hemispheres to preserve sensitivity for asymmetry analysis.
 - Macaque data were collected from the RIKEN Center for Biosystems Dynamics 
   Research (BDR) in Kobe, Japan, and the Stem Cell and Brain Research Institute 
   (SBRI) in Lyon, France, while marmoset data were collected from RIKEN BDR, 
