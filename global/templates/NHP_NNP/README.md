@@ -19,8 +19,8 @@
   Research (BDR) in Kobe, Japan, and the Stem Cell and Brain Research Institute 
   (SBRI) in Lyon, France, while marmoset data were collected from RIKEN BDR, 
   and chimpanzee data from the Yerkes National Primate Research Center (YNPRC) 
-  in Atlanta, USA. Data acquisition methods are described in the README for 
-  each species.
+  in Atlanta, USA. Data acquisition methods and other information are described
+  in the README for each species.
 - Currently available species are chimpanzee, rhesus macaque, cynomolgus 
   macaque, and marmoset. Snow monkey and night monkey are also planned. 
   Rodents are also under consideration.
