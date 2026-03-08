@@ -1,11 +1,11 @@
 # NHP_NNP Brain Template & Atlas Collection
 
 ## NHP brain template and atlas
-- This folder collects all the templates and atlases that are useful for 
-  resolving cortical folding, parcellation, and connectivity in various 
-  mammalian species. The data were released as part of the international 
-  initiative, the Non-Human Primate Neuroimaging & Neuroanatomy Project 
-  (NHP_NNP).
+- This folder collects all the templates and atlases designed for use with 
+  the HCP pipeline, enabling accurate analysis of cortical folding, 
+  parcellation, and connectivity across mammalian species. The data were 
+  released as part of the international initiative, the Non-Human Primate 
+  Neuroimaging & Neuroanatomy Project (NHP_NNP).
 - All data were preprocessed with the HCP pipeline. For rhesus macaque, 
   cynomolgus macaque, and marmoset, templates were additionally dedrifted 
   (unbiased population-level nonlinear registration) and symmetrized to 
