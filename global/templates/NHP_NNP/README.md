@@ -13,8 +13,8 @@
   registration between non-flipped and flipped data (sulci in surface or 
   T1w signal in volume), and mid-point warping was applied to the non-flipped
   data. Metrics of templates (sulci in surface and T1w and T2w signals in 
-  volume) were not averaged across hemispheres to preserve sensitivity for 
-  asymmetry analysis.
+  volume) were not averaged across hemispheres to preserve true biological
+  asymmetry and sensitivity for asymmetry analysis.
 - Macaque data were collected from the RIKEN Center for Biosystems Dynamics 
   Research (BDR) in Kobe, Japan, and the Stem Cell and Brain Research Institute 
   (SBRI) in Lyon, France, while marmoset data were collected from RIKEN BDR, 
