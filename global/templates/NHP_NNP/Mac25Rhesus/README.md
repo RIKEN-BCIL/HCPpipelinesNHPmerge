@@ -9,7 +9,7 @@
   with protocols approved by the RIKEN Kobe Animal Care and Use Committee.
 - T1w and T2w structural MRI were acquired at 0.5 mm isotropic resolution on a 
   Siemens 3T Prisma scanner using a Takashima Primate 24-channel multi-array 
-  head coil.
+  head coil. A scanning protocol is available at [NHP_NNP site](https://brainminds-beyond.riken.jp/hcp-nhp-protocol/).
 - Data were collected, then preprocessed with the HCP pipeline, supported by 
   AMED grant JP18dm0307006 (T.H.), JSPS KAKENHI JP22H04926 (T.H.), Wellcome Trust
   (S.S.), and NIH R01 MH60974 (D.V.E., M.F.G.).
